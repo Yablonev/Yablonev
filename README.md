@@ -8,6 +8,8 @@ Telegram — [@bNull](https://t.me/bNull)
 
 Personal website — [yablonev.art](https://yablonev.art)
 
+CV — [yablonev.github.io](https://yablonev.github.io)
+
 ## Career
 
 My previous job was as CTO in a [VVV Cash](https://vvv.cash) startup with $180k Seed round. I worked there for a year managing a team of almost 10 developers.
