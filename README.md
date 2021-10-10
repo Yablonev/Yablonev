@@ -4,7 +4,7 @@ Hi, I’m Artem Yablonev, developer based in Portugal, I have a passion for buil
 
 Email — y@blonev.art
 
-Telegram — [@bNull](https://t.me/bNull)
+Telegram — [@faceless_zero](https://t.me/faceless_zero)
 
 Personal website — [yablonev.art](https://yablonev.art)
 
