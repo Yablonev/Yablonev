@@ -16,9 +16,9 @@ Currently I'm working at [VVV Cash](https://vvv.cash) as CTO, it's eSports platf
 
 The first place of my work was the [Digital Edge](https://digitaledge.com) company which is an enterprise IT solutions outsource company based in NY. I worked there for more than 2 years.
 
-Also I worked in CyberSecurity [RapidSec](https://rapidsec.com) company.
+Also I worked in CyberSecurity [RapidSec](https://rapidsec.com) company as FullStack Engineer.
 
-In addition, I also have created all ot of pet projects such as [dApp based on Waves](https://waves.lucky-dapps.com/russian-roulette) and many more, NFT collections, DEX concepts, gambling platforms, etc.
+In addition, I also have created a lot of pet projects such as [dApps based on Waves](https://waves.lucky-dapps.com/russian-roulette), [NFT collections](https://nftbabez.io), [DEX concepts](https://otcswap.org), gambling platforms (NDA), games: [Ducks](https://ducks.nftbabez.io) and [Whac a mole](https://holes.nftbabez.io), and dozens blockchain and SAAS projects, it's like 1/10 projects I created only during 2020 year.
 
 [Here is my full CV](https://yablonev.github.io)
 
