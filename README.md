@@ -18,7 +18,7 @@ The first place of my work was the [Digital Edge](https://digitaledge.com) compa
 
 Also I worked in CyberSecurity company [RapidSec](https://rapidsec.com) as FullStack Senior Engineer.
 
-In addition, I also have created a lot of pet projects such as [dApps based on Waves](https://waves.lucky-dapps.com/russian-roulette), [NFT collections](https://nftbabez.io), [DEX concepts](https://otcswap.org), gambling platforms (NDA), games: [Ducks](https://ducks.nftbabez.io) and [Whac a mole](https://holes.nftbabez.io), and dozens blockchain and SAAS projects, it's like 1/10 projects I created only during 2020 year.
+In addition, I also have created a lot of pet projects such as [dApps based on Waves](https://waves.lucky-dapps.com/russian-roulette), [NFT collections](https://nftbabez.io), [DeFi concepts (in progress)](https://otcswap.org), gambling platforms (Sorry, NDA), games: [Ducks](https://ducks.nftbabez.io) and [Whac a mole](https://holes.nftbabez.io), and dozens blockchain and SAAS projects. It's like only 10% of projects that I have created only during 2020 year.
 
 [Here is my full CV](https://yablonev.github.io)
 
