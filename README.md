@@ -4,7 +4,7 @@ Hi, I’m Artem Yablonev, developer based in Portugal, I have a passion for buil
 
 Email — y@blonev.art
 
-Telegram — [@faceless_zero](https://t.me/faceless_zero)
+Telegram — [@just_zero_as_0](https://t.me/just_zero_as_0)
 
 Personal website — [yablonev.art](https://yablonev.art)
 
@@ -12,13 +12,19 @@ CV — [yablonev.github.io](https://yablonev.github.io)
 
 ## Career
 
-Currently I'm working at [VVV Cash](https://vvv.cash) as CTO, VVV.CASH is international eSports platform with 200k+ players all around the globe in the formation of which I played a significant role. I worked here with a slight hiatus over the past few years managing a team of around 10 developers.
+In short, almost everyday I write 100-1000 lines of code for the last 11 years :)
+
+Creator and owner of blockchain based Lucky dApps gambling platform. [Lucky dApps](lucky-dapps.com)
+
+I have been working with Waves Team; Blockchains: TRX, ETH, BTC, SOL, TON.
+
+I have experience of working at [VVV Cash](https://vvv.cash) as CTO, VVV.CASH is international eSports platform with 200k+ players all around the globe in the formation of which I played a significant role. I worked here with a slight hiatus over the past few years managing a team of around 10 developers.
 
 The first place of my work was the [Digital Edge](https://digitaledge.com) company which is an enterprise IT solutions outsource company based in NY. I worked there as FullStack Engineer for more than 2 years.
 
-Also I worked in CyberSecurity company [RapidSec](https://rapidsec.com) as FullStack Senior Engineer.
+Also, I worked in CyberSecurity company [RapidSec](https://rapidsec.com) as FullStack Senior Engineer.
 
-In addition, I also have created a lot of pet projects such as [dApps based on Waves](https://waves.lucky-dapps.com/russian-roulette), [NFT collections](https://nftbabez.io), [DeFi concepts (in progress)](https://otcswap.org/create), gambling platforms (Sorry, NDA), games: [Ducks](https://ducks.nftbabez.io) and [Whac a mole](https://holes.nftbabez.io), [IO Games](https://account.petridish.pw) and dozens blockchain, and SAAS projects. It's like only 10% of projects that I have created only during 2021 year.
+In addition, I also have created a lot of projects such as [dApps based on Waves](https://waves.lucky-dapps.com/russian-roulette), Engine for creating NFT collections and dozens of NFT collections and small games, ERC-20 tokens, swaps and so on, [IO Game](https://account.petridish.pw) and huge amount of pet and SAAS projects. 
 
 [Here is my full CV](https://yablonev.github.io)
 
