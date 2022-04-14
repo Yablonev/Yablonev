@@ -14,11 +14,11 @@ CV — [yablonev.github.io](https://yablonev.github.io)
 
 In short, almost everyday I write 100-1000 lines of code for the last 11 years :)
 
-Creator and owner of blockchain based Lucky dApps gambling platform. [Lucky dApps](lucky-dapps.com)
+Creator and owner of blockchain based Lucky dApps gambling platform. [Lucky dApps](https://lucky-dapps.com)
 
 I have been working with Waves Team; Blockchains: TRX, ETH, BTC, SOL, TON.
 
-I have experience of working at [VVV Cash](https://vvv.cash) as CTO, VVV.CASH is international eSports platform with 200k+ players all around the globe in the formation of which I played a significant role. I worked here with a slight hiatus over the past few years managing a team of around 10 developers.
+I have experience of working at [VVV Cash](https://vvvgamers.com) as CTO, VVV.CASH is international eSports platform with 350k+ players all around the globe in the formation of which I played a significant role. I worked here with a slight hiatus over the past few years managing a team of around 10 developers.
 
 The first place of my work was the [Digital Edge](https://digitaledge.com) company which is an enterprise IT solutions outsource company based in NY. I worked there as FullStack Engineer for more than 2 years.
 
