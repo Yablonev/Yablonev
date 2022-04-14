@@ -12,7 +12,7 @@ CV — [yablonev.github.io](https://yablonev.github.io)
 
 ## Career
 
-In short, almost everyday I write 100-1000 lines of code for the last 11 years :)
+In short, almost everyday I write 200-3000 lines of code for the last 11 years :)
 
 Creator and owner of blockchain based Lucky dApps gambling platform. [Lucky dApps](https://lucky-dapps.com)
 
