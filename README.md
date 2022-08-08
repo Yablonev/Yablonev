@@ -16,7 +16,7 @@ Creator and owner of blockchain based Lucky dApps gambling platform. [Lucky dApp
 
 I have been working with Waves Team; Blockchains: TRX, ETH, BTC, SOL, TON.
 
-Currently working with my team on projects for [TON Blockchain](https://ton.org) ecosystem, [TON SWAP](https://ton-swap.com), [TON Game](https://ton-game.com), [TON Gambling bot](https://t.me/ton_games_and_more), and many-many more...
+Currently working with my team on projects for [TON Blockchain](https://ton.org) ecosystem, [TON Swap](https://ton-swap.com), [TON Game](https://ton-game.com), [TON Gambling bot](https://t.me/ton_games_and_more), and many-many more...
 
 I have experience of working at [VVV Cash](https://vvvgamers.com) as CTO, VVV.CASH is international eSports platform with 350k+ players all around the globe in the formation of which I played a significant role. I worked here with a slight hiatus over the past few years managing a team of around 10 developers.
 
