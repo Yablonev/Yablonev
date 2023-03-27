@@ -28,6 +28,8 @@ In addition, I also have created a lot of projects such as dApps: [Smart-contrac
 
 Also, I invest in [TON Domains](https://getgems.io/user/EQAd_LCfdJb_Iqz5ZOfyMI9bmJfU_Fz2SN-Gx3wcG33d2tiz) and [TON NFT](https://getgems.io/user/EQD6Tv6Kbqp-RYPl_T9Rum_pixdFX71IC83doVRu0fIqv50d) 😂.
 
+Also, this year (2023) I went to [Lisbon giving technical talk](https://twitter.com/TON_Lisbon_HUB/status/1617563243333169153?s=20) about TON Blockchain, which was sponsored by [TON Foundation](https://ton.org).
+
 [Here is my full CV](https://yablonev.github.io) [Not very up to date]
 
 ## Tech
