@@ -28,7 +28,7 @@ In my free time currently working with my [friends as team](https://github.com/T
 
 In addition, I also have created a lot of projects such as dApps: [Smart-contract based game on Waves](https://waves.lucky-dapps.com/russian-roulette) or [Giga SWAP](https://gigaswap.app), thats Web 3.0 P2P DEX, I have own engine for creating NFT collections and also I have been participated in consulting and development of dozens of ETH NFT collections and small games, ERC-20 tokens, swaps and so on, I have re-create frontend from scratch for popular [IO Game](https://account.petridish.pw) and huge amount of pet and SAAS projects. Also, I'm maintainer of [Popular tool for developers](https://css2sass.herokuapp.com)
 
-Also, I invest in [TON Domains](https://getgems.io/user/EQAd_LCfdJb_Iqz5ZOfyMI9bmJfU_Fz2SN-Gx3wcG33d2tiz) and [TON NFT](https://getgems.io/user/EQD6Tv6Kbqp-RYPl_T9Rum_pixdFX71IC83doVRu0fIqv50d) 😂.
+Also, I invest in [TON Domains](https://getgems.io/user/EQAd_LCfdJb_Iqz5ZOfyMI9bmJfU_Fz2SN-Gx3wcG33d2tiz) and [TON NFT](https://getgems.io/user/EQD6Tv6Kbqp-RYPl_T9Rum_pixdFX71IC83doVRu0fIqv50d).
 
 This year (2023) I went to [Lisbon giving technical talk](https://twitter.com/TON_Lisbon_HUB/status/1617563243333169153?s=20) about [TON Blockchain](https://ton.org), which was sponsored by [TON Foundation](https://tonapi.io/account/EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N).
 
