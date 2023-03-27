@@ -2,9 +2,9 @@
 
 Hi, I’m Artem Yablonev, developer based in Portugal, I have a passion for building highly-polished products for customers, and enjoy creating great user experience. Worth mentioning that I have exprerience in managing development proccess of IT products and building huge blockchain WEB 3.0 solutions from scratch.
 
-Email — y@blonev.art
+Email — yablonev.art@gmail.com or y@blonev.art
 
-Telegram — [@tg09F9](https://t.me/tg09F9)
+Work Telegram — [@DeFi_CTO](https://t.me/DeFi_CTO)
 
 CV — [yablonev.github.io](https://yablonev.github.io)
 
