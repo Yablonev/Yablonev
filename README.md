@@ -20,9 +20,9 @@ Also, I worked in CyberSecurity company [RapidSec](https://rapidsec.com) as Full
 
 CTO in [iGaming startup](https://x-online.pro/wallet).
 
-Creator and owner of blockchain based Lucky dApps gambling platform. [Lucky dApps](https://lucky-dapps.com)
+Creator and owner of blockchain based [Lucky dApps](https://lucky-dapps.com) gambling platform. *[Currently unavailable]*
 
-I have been working with Waves Team; Blockchains: TRX, ETH, BTC, SOL, TON.
+I have been working with following blockchains: Waves, TRX, ETH, BTC, SOL, TON.
 
 In my free time currently working with my [friends as team](https://github.com/TON-NFT) on projects for [TON Blockchain](https://ton.org) ecosystem, [TON Swap](https://ton-swap.com), [TON Game](https://ton-game.com), [Classic TON Roulette](https://classic.ton-game.com), [TON Gambling bot](https://t.me/ton_games_and_more), [TON Gambling bot v2](https://t.me/gambling_ton), [DAO TON Wallet](https://dao.ton.beauty), NPM Packages (WIP) like [ton-wallet-utils](https://www.npmjs.com/package/ton-wallet-utils) and many-many more...
 
