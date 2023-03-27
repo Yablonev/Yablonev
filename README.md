@@ -40,3 +40,6 @@ This year *[2023]* I went to [Lisbon giving technical talk](https://twitter.com/
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&labelColor=303d50&logoColor=white&color=475a75)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&labelColor=303d50&logoColor=white&color=475a75)
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=Adobe-Photoshop&labelColor=303d50&logoColor=white&color=475a75)
+
+## Today
+[![](https://visitcount.itsvg.in/api?id=Yablonev&label=Profile%20Views&color=9&icon=8&pretty=true)](https://visitcount.itsvg.in)
