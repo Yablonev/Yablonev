@@ -18,7 +18,7 @@ The first place of my work was the [Digital Edge](https://digitaledge.com) compa
 
 Also, I worked in CyberSecurity company [RapidSec](https://rapidsec.com) as FullStack Senior Engineer.
 
-For some time I worked as CTO in [iGaming StartUp](https://x-online.pro/wallet).
+CTO in [iGaming startup](https://x-online.pro/wallet).
 
 Creator and owner of blockchain based Lucky dApps gambling platform. [Lucky dApps](https://lucky-dapps.com)
 
