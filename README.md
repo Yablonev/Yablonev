@@ -12,11 +12,11 @@ Hi, I’m Artem Yablonev, developer based in Portugal, I have a passion for buil
 
 In short, almost everyday I write **200-3000** lines of code for the last **11 years** :)
 
-The first place of my work was the [Digital Edge](https://digitaledge.com) company which is an enterprise IT solutions outsource company based in NY. I worked there as **Full-Stack Engineer** for more than 2 years. *[2016-2018]*
+The first place of my work was the [Digital Edge](https://digitaledge.net) company which is an enterprise IT solutions outsource company based in NY. I worked there as **Full-Stack Engineer** for more than 2 years. *[2016-2018]*
 
 I have experience of working at [VVV Gamers](https://vvvgamers.com) as **Co-Founder** and **CTO**, it is international eSports platform with **1M+** players all around the globe in the formation of which I played a significant role. I worked here with a slight hiatus over the past few years managing a team of around 10 developers. *[2018-2019]*
 
-Also, I worked in CyberSecurity company [RapidSec](https://rapidsec.com) as **Full-Stack Senior Engineer**. *[2020-2021]*
+Also, I worked in CyberSecurity company [RapidSec (now called Orca Security)](https://rapidsec.com) as **Full-Stack Senior Engineer**. *[2020-2021]*
 
 **Co-Founder** and **CTO** at [iGaming startup](https://x-online.pro/wallet). *[2023]*
 
