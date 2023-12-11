@@ -18,13 +18,13 @@ I have experience of working at [VVV Gamers](https://vvvgamers.com) as **Co-Foun
 
 Also, I worked in CyberSecurity company [RapidSec (now called Orca Security)](https://rapidsec.com) as **Full-Stack Senior Engineer**. *[2020-2021]*
 
-**Co-Founder** and **CTO** at [iGaming startup](https://x-online.pro/wallet). *[2023]*
+**Ex Co-Founder** and **Ex CTO** at [iGaming startup](https://x-online.pro). *[2023]*
 
-**Creator and owner** of blockchain based [Lucky dApps](https://lucky-dapps.com) gambling platform. *[Currently unavailable]*
+**Creator and owner** of blockchain based [Lucky dApps](https://lucky-dapps.com) gambling platform. *[Currently ton-game.com]*
 
 I have been working with following blockchains: *TON, ETH, WAVES, TRX, BTC, SOL*
 
-In my free time currently working with my [friends as team](https://github.com/TON-NFT) on projects for [TON Blockchain](https://ton.org) ecosystem, [TON Swap](https://ton-swap.com), [TON Game](https://ton-game.com), [Classic TON Roulette](https://classic.ton-game.com), [TON Gambling bot](https://t.me/ton_games_and_more), [TON Gambling bot v2](https://t.me/gambling_ton), [DAO TON Wallet](https://dao.ton.beauty), NPM Packages (*WIP*) like [ton-wallet-utils](https://www.npmjs.com/package/ton-wallet-utils) and many-many more...
+In my free time currently working with my [friends as team](https://github.com/TON-NFT) on projects for [TON Blockchain](https://ton.org) ecosystem, [TON Swap](https://ton-swap.com), [TON Game](https://ton-game.com), [Classic TON Roulette](https://classic.ton-game.com), [TON Gambling bot](https://t.me/ton_games_and_more), [Wins Platform](https://t.me/wins), [DAO TON Wallet](https://dao.ton.beauty), NPM Packages (*WIP*) like [ton-wallet-utils](https://www.npmjs.com/package/ton-wallet-utils) and many-many more...
 
 In addition, I also have created a lot of projects such as dApps: [Smart-contract based game on Waves](https://waves.lucky-dapps.com/russian-roulette) or [Giga SWAP](https://gigaswap.app), thats Web 3.0 P2P DEX, I have own engine for creating NFT collections and also I have been participated in consulting and development of **dozens** of ETH NFT collections and small games, ERC-20 tokens, swaps and so on, I have re-create frontend from scratch for popular [IO Game](https://account.petridish.pw) and huge amount of pet and SAAS projects. Maintainer of [popular tool for developers](https://css2sass.herokuapp.com), and many, many more...
 
